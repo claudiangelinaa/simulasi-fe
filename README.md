@@ -10,7 +10,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
 ## A. Terms & Conditions
 - ujian akan dilaksanakan selama 3 jam 20 menit
     - 10 menit untuk *setup*
-    - 3 jam mengerjakan soal
+    - 5 jam mengerjakan soal
     - 10 menit *pull request*
 - repositori ini akan di-***public*** 5 menit sebelum ujian dimulai dan akan kembali di-***private*** setelah 5 menit ujian selesai
 - selama mengerjakan ujian, siswa wajib **men-share seluruh screen** di **zoom** (khusus untuk kelas online) sampai ujian selesai
